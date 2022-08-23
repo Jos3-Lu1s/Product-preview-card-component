@@ -6,7 +6,7 @@ Codificación de un componente card para mostrar información y vista previa de 
 
 El desafío consiste en construir el siguiente componente y lograr que se parezca lo más posible al diseño por medio de la implementación de cualquier herramienta.
 
-![](design\desktop-preview.jpg)
+![](design/desktop-preview.jpg)
 
 ### Construido con:
 
