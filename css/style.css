@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -5,4 +8,47 @@
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+.container{
+    background-color: hsl(30, 38%, 92%);
+}
+
+.desc{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.product{
+    font-family: 'Fraunces', serif;
+    line-height:30px;
+}
+
+.pricecolor{
+    color: hsl(158, 36%, 37%);
+}
+
+.price{
+    text-decoration: line-through;
+}
+
+.cardheader{
+    letter-spacing: 4px;
+}
+
+.button{
+    background-color: hsl(158, 36%, 37%); 
+    color: #ffffff;
+    text-decoration: none;
+    width: 100%;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: hsl(158, 36%, 20%);
+    transition: background 0.3s;
 }
